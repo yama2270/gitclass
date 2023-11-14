@@ -1,0 +1,13 @@
+mqnic 노래방
+s추가
+
+Commit 
+.git -> 깃 저장소
+- Git은 checkout 버전을 어떻게 가지고 있을까 ? 
+- 분산저장, 통저장 
+
+Git log 
+
+Local repository 
+Remote repository 
+
